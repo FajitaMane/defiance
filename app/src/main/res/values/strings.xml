@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Defiance</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bluetooth_host">BluetoothHost</string>
+
+    <string name="title_activity_aigame">AIGameActivity</string>
+    <string name="vote_yes_button">Vote Yes</string>
+    <string name="vote_no_button">Vote No</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
